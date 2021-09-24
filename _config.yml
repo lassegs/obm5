@@ -34,18 +34,21 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Tilbud
   url: /
-- title: About
-  url: /about/
-- title: Blog
+- title: Om
+  url: /om/
+- title: Nyheter
   url: /blog/
+- title: Aktiviteter
+  url: /aktiviteter/
+- title: Kontakt
+  url: /kontakt/
 
-# Footer nav
+    # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
-
+- title: Samskapt
+  url: https://github.com/katieco/oslobarnemuseum
 # Collections
 collections:
   posts:

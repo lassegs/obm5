@@ -73,3 +73,10 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+social_links:
+  Twitter: https://twitter.com/oslobarnemuseum
+  Facebook: https://www.facebook.com/oslobarnemuseum
+  GitHub: https://github.com/katieco/oslobarnemuseum
+  RSS: "/feed.xml"
+

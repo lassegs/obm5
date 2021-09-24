@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Oslo Barnemuseum'
 description: 'This is my new website'
 permalink: pretty
-logo: "assets/uploads/obmlogo.png"
+logo: "/assets/uploads/obmlogo.png"
 
 # Pagination
 paginate: 5

@@ -1,12 +1,11 @@
 ---
-title: Velkommen til Oslo Barnemuseum - oppdag, utforsk, skap, lek!
+title: Oppdag, utforsk, skap, lek!
 feature_text: 
 feature_image: 'https://lassegs.github.io/obmimg/IMG_3599b.jpg '
 excerpt: Støtt barnas museum som permanent utstilling i Oslo.
 aside: true
 ---
-
-Noen festivaler hvor du kan treffe oss i 2017 er:
+Velkommen til Oslo Barnemuseum. Noen festivaler hvor du kan treffe oss i 2017 er:
 
 * Lørdag, 13. mai kl. 11-16, [Tøyenfest](https://www.facebook.com/events/1835766443377965/) på Tøyenskole i samarbeid med Områdeløft Tøyen.
 

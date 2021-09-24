@@ -24,7 +24,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'Oslo Barnemuseum'
-description: 'This is my new website'
+description: 'Støtt barnas museum som permanent utstilling i Oslo.'
 permalink: pretty
 logo: "/assets/uploads/obmlogo.png"
 

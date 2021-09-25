@@ -21,7 +21,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.oslobarnemuseum.no'
 baseurl: ''
 title: 'Oslo Barnemuseum'
 description: 'Støtt barnas museum som permanent utstilling i Oslo gjennom å følge oss i sosiale medier.'

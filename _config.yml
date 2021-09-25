@@ -50,11 +50,10 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Innlegg
     output: true
     description: "Oslo Barnemuseums blogg"
-    feature_text: |
-      Oslo Barnemuseums blog
+    feature_text: 
     feature_image: "/assets/uploads/zdenek-machacek-qctgjvk7qc8-unsplash.jpg"
 
 # Collection settings

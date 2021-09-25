@@ -29,6 +29,12 @@ permalink: pretty
 logo: "/assets/uploads/obmlogo.png"
 date_format: "%d.%m.%Y"
 
+favicons: 
+  16: '/assets/favicon.png'
+  32: '/assets/favicon-32x32.png'
+
+
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
@@ -56,10 +62,6 @@ collections:
     description: "Oslo Barnemuseums blogg."
     feature_text: 
     feature_image: "/assets/uploads/zdenek-machacek-qctgjvk7qc8-unsplash.jpg"
-
-favicons:
-  16: '/assets/favicon.png'
-  32: '/assets/favicon-32x32.png'
 
 # Collection settings
 defaults:

@@ -57,6 +57,9 @@ collections:
     feature_text: 
     feature_image: "/assets/uploads/zdenek-machacek-qctgjvk7qc8-unsplash.jpg"
 
+favicons:
+  16: '/assets/favicon.png'
+
 # Collection settings
 defaults:
   -

@@ -59,6 +59,7 @@ collections:
 
 favicons:
   16: '/assets/favicon.png'
+  32: '/assets/favicon.png'
 
 # Collection settings
 defaults:

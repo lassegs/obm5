@@ -1,8 +1,9 @@
 ---
 title: Oppdag, utforsk, skap, lek!
-feature_text: 
-feature_image: 'https://lassegs.github.io/obmimg/IMG_3599b.jpg '
-excerpt: Støtt barnas museum som permanent utstilling i Oslo.
+feature_image: "https://lassegs.github.io/obmimg/IMG_3599b.jpg "
+feature_text: ""
+excerpt: Støtt barnas museum som permanent utstilling i Oslo ved å følge oss i
+  sosiale medier.
 aside: true
 ---
 Velkommen til Oslo Barnemuseum. Noen festivaler hvor du kan treffe oss i 2017 er:

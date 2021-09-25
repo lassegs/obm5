@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Tilbud
+- title: Hjem
   url: /
 - title: Om
   url: /om/

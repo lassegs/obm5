@@ -27,6 +27,7 @@ title: 'Oslo Barnemuseum'
 description: 'Støtt barnas museum som permanent utstilling i Oslo gjennom å følge oss i sosiale medier.'
 permalink: pretty
 logo: "/assets/uploads/obmlogo.png"
+date_format: %d.%m.%Y
 
 # Pagination
 paginate: 5

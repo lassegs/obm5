@@ -7,3 +7,11 @@ $linkColour: #2e76cf;
 $hoverColour: #173b67;
 
 @import "alembic";
+
+.footer {
+	background: #fff;
+}
+
+.footer a:hover {
+	color: $hoverColour;
+}

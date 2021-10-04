@@ -2,20 +2,20 @@
 title: CityKids - oppdag, utforsk, skap, lek!
 feature_image: "https://lassegs.github.io/obmimg/IMG_3599b.jpg "
 feature_text: ""
-excerpt: Støtt barnas museum som permanent utstilling i Oslo ved å følge oss i
-  sosiale medier.
+excerpt: Støtt barnas egne permanent utstilling i Oslo ved å følge oss i sosiale medier.
 aside: true
 ---
 **Denne siden er under utvikling!**
 
-Velkommen til Oslo Barnemuseum. Du kan treffe oss på kulturhuset Sentralen:
+Velkommen til Oslo Barnemuseum som er arrangør for **CityKids på Sentralen**. Her kan du treffe oss i 2021:
 
-* Lørdag, 13. mai kl. 11-16, [Tøyenfest](https://www.facebook.com/events/1835766443377965/) på Tøyenskole i samarbeid med Områdeløft Tøyen.
-* Helgen 10-11 juni, [Miniøya](http://minioya.no/) i Tøyenparken.
-* Søndag, 2. juli kl. 12-17, [feiringen av den amerikanske nasjonaldagen](http://www.accn.no/) i Frognerparken i samarbeid med ACCN.
-* Lørdag, 26. august kl. 11-16, [Kulturisten Junior](http://www.kulturisten.no/kulturisten-junior/) på Nesodden.
-* Lørdag, 28. oktober kl. 11-16, [Tøyen Aktivitetshuset K1 ](http://www.kulturisten.no/kulturisten-junior/) på Tøyen.
-* Søndag, 12. november kl. 12-16 [CityKids](https://www.facebook.com/events/1982856075323507) på Sentralen
+* Søndag, 24. oktober kl. 12-16 på **CityKids** på Sentralen
+* Lørdag, 13. november kl. 12-16 på **CityKids** på Sentralen
+* Søndag, 14. november kl. 12-16 på **CityKids** på Sentralen\
+  \
+  *(lenker til billettsalg of mer info kommer snart)*
+
+
 
 ## CityKids
 
@@ -25,7 +25,7 @@ Velkommen til Oslo Barnemuseum. Du kan treffe oss på kulturhuset Sentralen:
 
 CityKids er produsert av Stiftelsen Oslo Barnemuseum i samarbeid med SentralenUNG og Institutt for informatikk ved UiO og med støtte fra Oslo kommune og EU Kreativt Europa.
 
-CityKids finner du i den flotte Marmorsalen i 1. etasje på Sentralen. Det finnes barnevognparkering utenfor Marmorsalen. Det er dessverre ikke mulig å ta med barnevogner inn i Marmorsalen pga. brannsikring.
+CityKids finner du i den flotte Marmorsalen i 1. etasje på Sentralen. 
 
 ![Videoinstallasjon](https://raw.githubusercontent.com/lassegs/obmimg/master/P4080058.jpg)
 

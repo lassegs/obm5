@@ -8,7 +8,7 @@ aside: true
 ---
 **Denne siden er under utvikling!**
 
-Velkommen til Oslo Barnemuseum. Noen festivaler hvor du kan treffe oss i 2017 er:
+Velkommen til Oslo Barnemuseum. Du kan treffe oss på kulturhuset Sentralen:
 
 * Lørdag, 13. mai kl. 11-16, [Tøyenfest](https://www.facebook.com/events/1835766443377965/) på Tøyenskole i samarbeid med Områdeløft Tøyen.
 * Helgen 10-11 juni, [Miniøya](http://minioya.no/) i Tøyenparken.

@@ -6,18 +6,15 @@ excerpt: Støtt barnas museum som permanent utstilling i Oslo ved å følge oss 
   sosiale medier.
 aside: true
 ---
+**Denne siden er under utvikling!**
+
 Velkommen til Oslo Barnemuseum. Noen festivaler hvor du kan treffe oss i 2017 er:
 
 * Lørdag, 13. mai kl. 11-16, [Tøyenfest](https://www.facebook.com/events/1835766443377965/) på Tøyenskole i samarbeid med Områdeløft Tøyen.
-
 * Helgen 10-11 juni, [Miniøya](http://minioya.no/) i Tøyenparken.
-
 * Søndag, 2. juli kl. 12-17, [feiringen av den amerikanske nasjonaldagen](http://www.accn.no/) i Frognerparken i samarbeid med ACCN.
-
 * Lørdag, 26. august kl. 11-16, [Kulturisten Junior](http://www.kulturisten.no/kulturisten-junior/) på Nesodden.
-
 * Lørdag, 28. oktober kl. 11-16, [Tøyen Aktivitetshuset K1 ](http://www.kulturisten.no/kulturisten-junior/) på Tøyen.
-
 * Søndag, 12. november kl. 12-16 [CityKids](https://www.facebook.com/events/1982856075323507) på Sentralen
 
 ## CityKids

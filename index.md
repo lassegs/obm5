@@ -7,15 +7,13 @@ aside: true
 ---
 **Denne siden er under utvikling!**
 
-Velkommen til Oslo Barnemuseum som er arrangør for **CityKids på Sentralen**. Her kan du treffe oss i 2021:
+Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Endelig  gjenåpner vi CityKids på følgende dager i 2021:
 
-* Søndag, 24. oktober kl. 12-16 på **CityKids** på Sentralen
-* Lørdag, 13. november kl. 12-16 på **CityKids** på Sentralen
-* Søndag, 14. november kl. 12-16 på **CityKids** på Sentralen\
+* Søndag, 24. oktober kl. 12-16
+* Lørdag, 13. november kl. 12-16 
+* Søndag, 14. november kl. 12-16 \
   \
   *(lenker til billettsalg of mer info kommer snart)*
-
-
 
 ## CityKids
 

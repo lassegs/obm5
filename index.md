@@ -1,5 +1,5 @@
 ---
-title: Oppdag, utforsk, skap, lek!
+title: CityKids - oppdag, utforsk, skap, lek!
 feature_image: "https://lassegs.github.io/obmimg/IMG_3599b.jpg "
 feature_text: ""
 excerpt: Støtt barnas museum som permanent utstilling i Oslo ved å følge oss i

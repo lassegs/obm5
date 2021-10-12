@@ -7,6 +7,8 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - netlify.toml
+- gitpod.yml
+- Dockerfile
 
 # Set plugins
 plugins:
@@ -53,7 +55,8 @@ navigation_header:
     # Footer nav
 navigation_footer:
 - title: Samskapt
-  url: https://github.com/katieco/oslobarnemuseum
+  url: https://github.com/lassegs/obm5
+  
 # Collections
 collections:
   posts:

@@ -3,13 +3,10 @@ title: Kontakt
 feature_image: "https://lassegs.github.io/obmimg/P5271027b.jpg "
 excerpt: Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!
 ---
-Våre arrangementer organiseres gjennom Facebook. Send oss e-post eller en melding på sosiale medier. Eventuelt kan du fylle ut skjemaet under.
+Våre arrangementer organiseres gjennom Facebook. Send oss e-post eller en melding på sosiale medier. 
 
  {% include button.html text="info@oslobarnemuseum.org" icon="email" color="green" link="mailto:info@oslobarnemuseum.org" %}  {% include button.html text="Følg oss på Facebook" icon="facebook" color="#3B5998" link="https://www.facebook.com/oslobarnemuseum" %} {% include button.html text="Følg oss på Twitter" icon="twitter" color="#1DA1F2" link="https://twitter.com/OsloBarnemuseum" %}  {% include button.html text="Bli med i utviklingen" icon="github" color="#24292E" link="https://github.com/katieco/oslobarnemuseum" %}
 
-### Kontaktskjema
-
-{% include site-form.html %}
 
 ### Adresse
 

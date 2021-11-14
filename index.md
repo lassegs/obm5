@@ -15,6 +15,8 @@ Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Endeli
   \
   *(lenker til billettsalg of mer info kommer snart)*
 
+{% include carousel.html %}
+
 ## CityKids
 
 **Oppdag, utforsk, skap, lek!** CityKids er en levende arena for oppdagelse og mestring. Her kan barna selv ta ledelsen i å oppdage, skape og prøve noe nytt. Barn utforsker og utfolder seg i flersensoriske aktiviteter som stimulerer nysgjerrighet, kreativitet og selvtillit og gir et godt grunnlag for læring og nytenkning.

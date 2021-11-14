@@ -25,3 +25,18 @@ $hoverColour: #173b67;
 	max-height: 6rem;
 }
 
+:root {
+    font-size: 70%; // 0px                    ~ Mobile first
+    @include breakpoint(break-1) { // 640px   ~ Small tablet up
+      font-size: 70%;
+    }
+    @include breakpoint(break-2) { // 800px   ~ Large tablet up
+      font-size: 85%;
+    }
+    @include breakpoint(break-3) { // 1024px  ~ Desktop up
+      font-size: 91%;
+    }
+    @include breakpoint(break-4) { // 1600px  ~ Large desktop up
+      font-size: 100%;
+    }
+}

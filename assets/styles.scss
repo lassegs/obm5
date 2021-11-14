@@ -17,7 +17,12 @@ $hoverColour: #173b67;
 }
 
 .nav-partners {
+
+}
+
+.partner {
 	filter: grayscale(1);
+	max-height: 64px;
 }
 
 .carousel__holder {
@@ -25,3 +30,4 @@ $hoverColour: #173b67;
 	max-height: 800px;
 	min-height: 150px;
 }
+

@@ -15,7 +15,7 @@ Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Endeli
   \
   *(lenker til billettsalg of mer info kommer snart)*
 
-{% include carousel.html %}
+{% include carousel.html height="70" unit="%" duration="7" %}
 
 ## CityKids
 

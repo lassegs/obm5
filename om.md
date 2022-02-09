@@ -1,10 +1,9 @@
 ---
 title: Om
-feature_text: 
-feature_image: 'https://lassegs.github.io/obmimg/IMG_3559b.jpg '
+feature_image: "https://lassegs.github.io/obmimg/IMG_3559b.jpg "
+feature_text: null
 excerpt: Om Oslo Barnemuseum
 ---
-
 Målet med å opprette Oslo Barnemuseum er å gi barn deres eget inspirerende miljø som vil hjelpe dem å utvikle sin kreative tenkning, selvtillit og kjennskap til verden.
 
 ## Bakgrunn
@@ -13,9 +12,7 @@ Dette prosjektet ble inspirert av en mors erfaring fra et barnemuseum i utlandet
 I april 2005 begynte prosjektet etter at forskning og samtaler med foreldre, lærere og ledere i Oslo ga en sterk indikasjon på at byen har behov for et sted som kunne:
 
 * tilby sunne og morsomme kulturaktiviteter for barn året rundt
-
 * utfordre barn gjennom mangfold og inspirere til kreativitet
-
 * bygge broer mellom barn og familier med ulik bakgrunn
 
 I oktober 2005 stiftet vi venneforeningen "Venner av Prosjektet Oslo Barnemuseum" med målet om å realisere Oslo Barnemuseum, både faglig og økonomisk. Et styre ble også valgt. I tillegg skapte vi et "barnestyre" med 25 barn med bakgrunn fra 20 forskjellige land. I 2007 ble vi til en stiftelse for å formalisere vårt mål om å være et "non-profit" tilbud.
@@ -45,27 +42,20 @@ Vi synes det er på tide at vi kan få et lokalt barnemuseum til glede og nytte 
 Barna og familiene deres:
 
 * Inspirerer unge barns interesse for læring
-
 * Styrker familiebånd utenfor dagliglivets forstyrrelser
-
 * Tilbyr et sted hvor alle barn og familiene får en følelse av tilhørighet, uavhengig av kulturell bakgrunn, evner eller andre egenskaper (det finnes ingen språk eller læringsbarriærer)
 
 Skoler/barnehager og andre utdanningsinstitusjoner:
 
 * Vil være en ressurs gjennom spesielt utviklede besøksprogrammer
-
 * Tilbyr et miljø hvor barn kan prøve ut og bygge på hva de har lært hjemme og på skole
-
 * Bidrar til en positiv læringskultur
 
 Oslo og resten av landet:
 
 * Vil øke Oslos attraktivitet som turistmål
-
 * (barnemuseer er etterspurte reisemål for turistfamilier)
-
 * Stimulerer interesse og deltakelse i barneprogrammer overalt
-
 * Samler familier med ulik bakgrunn for felles opplevelser som bygger broer mellom ulike grupper
 
 ## Konseptutredning
@@ -76,7 +66,7 @@ bør skje på Tøyen gjennom transformasjon av eksisterende bygg.  Vi håper mat
 og vil gjerne ha dine innspill på hvordan vi best kan gå fra idé til realisering.
 
 <a href= "http://oslobarnemuseum.org/pdf/UngeOppdagere_Konseptrapport_v1_webres.pdf">
-![Konseptutredning](/assets/oppdrag.png)</a>
+!\[Konseptutredning](/assets/oppdrag.png)</a>
 
 I 2015 fikk vi i samarbeid med [Space Group](http://spacegroup.no/)  laget Oppdrag Oppdag!, en konseptutvikling for et interaktivt opplevelsessenter for barn på Tøyen.
 

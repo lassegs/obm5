@@ -7,7 +7,7 @@ aside: true
 ---
 **Denne siden er under utvikling!**
 
-Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Besøk oss på CityKids på følgende helger i 2022:
+Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Besøk CityKids på følgende helger i 2022:
 
 * 8.-9. januar kl. 12-16 - AVLYST!
 * 12.-13. februar kl. 12-16 - AVLYST!

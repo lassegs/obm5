@@ -14,7 +14,7 @@ Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Besøk
 * 12.-13. mars kl 12-16
 * 9.-10. april kl. 12-16 
 * 15.-16. oktober kl. 12-16
-* 15.-16. oktober kl. 12-16 \
+* 15.-16. november kl. 12-16 \
   \
   *(mer info med lenker til billettsalg kommer snart)*
 

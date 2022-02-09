@@ -7,11 +7,14 @@ aside: true
 ---
 **Denne siden er under utvikling!**
 
-Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Endelig  gjenåpner vi CityKids på følgende dager i 2021:
+Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Vi har planlagt CityKids på følgende helger i 2022:
 
-* Søndag, 24. oktober kl. 12-16
-* Lørdag, 13. november kl. 12-16 
-* Søndag, 14. november kl. 12-16 \
+* 8.-9. januar kl. 12-16 - AVLYST!
+* 12.-13. februar kl. 12-16 - AVLYST!
+* 12.-13. mars kl 12-16
+* 9.-10. april kl. 12-16 
+* 15.-16. oktober kl. 12-16
+* 15.-16. oktober kl. 12-16 \
   \
   *(lenker til billettsalg of mer info kommer snart)*
 
@@ -24,8 +27,6 @@ Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Endeli
 ![Virtual reality fossefall](https://raw.githubusercontent.com/lassegs/obmimg/master/waterfall.jpg)
 
 CityKids er produsert av Stiftelsen Oslo Barnemuseum i samarbeid med SentralenUNG og Institutt for informatikk ved UiO og med støtte fra Oslo kommune og EU Kreativt Europa.
-
-CityKids finner du i den flotte Marmorsalen i 1. etasje på Sentralen. 
 
 ![Videoinstallasjon](https://raw.githubusercontent.com/lassegs/obmimg/master/P4080058.jpg)
 

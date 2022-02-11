@@ -1,8 +1,8 @@
 ---
 title: Hello World
+feature_image: https://picsum.photos/2560/600?image=872
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+  - General
+date: 2022-02-11 11:29:55
 ---
-
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+Vi holder fortsatt stengt pga covid. Kommer snart med nyheter for CityKids.

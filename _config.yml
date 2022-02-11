@@ -23,6 +23,7 @@ plugins:
 - jemoji
 
 # Site settings
+timezone: Europe/Oslo
 url: 'https://www.oslobarnemuseum.no'
 baseurl: ''
 title: 'Oslo Barnemuseum'

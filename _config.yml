@@ -46,7 +46,7 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Hjem
   url: /
-- title: Blogg
+- title: Nyheter
   url: /blog/
 - title: Om
   url: /om/

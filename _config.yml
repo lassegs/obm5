@@ -61,7 +61,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Innlegg
+    title: Nyheter
     output: true
     description: "Oslo Barnemuseums blogg."
     feature_text: 

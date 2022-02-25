@@ -5,4 +5,5 @@ categories:
   - General
 date: 2022-02-10 12:00:00
 ---
-Vi holder fortsatt stengt pga covid. Kommer snart med nyheter for CityKids.
+Endelig gjenåpner vi CityKids helgen 12.-13. mars! \
+<https://www.facebook.com/events/318894086880265/>

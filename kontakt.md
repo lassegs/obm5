@@ -7,10 +7,9 @@ Våre arrangementer organiseres gjennom Facebook. Send oss e-post eller en meldi
 
  {% include button.html text="info@oslobarnemuseum.org" icon="email" color="green" link="mailto:info@oslobarnemuseum.org" %}  {% include button.html text="Følg oss på Facebook" icon="facebook" color="#3B5998" link="https://www.facebook.com/oslobarnemuseum" %} {% include button.html text="Følg oss på Twitter" icon="twitter" color="#1DA1F2" link="https://twitter.com/OsloBarnemuseum" %}  {% include button.html text="Bli med i utviklingen" icon="github" color="#24292E" link="https://github.com/katieco/oslobarnemuseum" %}
 
-
 ### Adresse
 
-*Oslo Barnemuseum \
+*Oslo Barnemuseum - CityKids\
 Sentralen \
 Øvre Slottsgate 3 \
 0157 Oslo*

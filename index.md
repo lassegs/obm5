@@ -2,11 +2,9 @@
 title: CityKids - oppdag, utforsk, skap, lek!
 feature_image: "https://lassegs.github.io/obmimg/IMG_3599b.jpg "
 feature_text: ""
-excerpt: Støtt barnas egne permanent utstilling i Oslo ved å følge oss i sosiale medier.
+excerpt: ""
 aside: true
 ---
-**Denne siden er under utvikling!**
-
 Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Besøk CityKids på følgende helger i 2022:
 
 * 8.-9. januar kl. 12-16 - AVLYST pga covid

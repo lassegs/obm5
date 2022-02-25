@@ -9,8 +9,8 @@ aside: true
 
 Velkommen til Oslo Barnemuseum som produserer **CityKids på Sentralen**. Besøk CityKids på følgende helger i 2022:
 
-* 8.-9. januar kl. 12-16 - AVLYST
-* 12.-13. februar kl. 12-16 - AVLYST
+* 8.-9. januar kl. 12-16 - AVLYST pga covid
+* 12.-13. februar kl. 12-16 - AVLYST pga covid
 * 12.-13. mars kl 12-16  <https://www.facebook.com/events/318894086880265/>
 * 9.-10. april kl. 12-16 
 * 15.-16. oktober kl. 12-16

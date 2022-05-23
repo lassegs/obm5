@@ -5,7 +5,7 @@ feature_text: ""
 excerpt: ""
 aside: true
 ---
-Stiftelsen Oslo Barnemuseum produserer **CityKids på Sentralen**. Besøk CityKids på følgende helger i 2022 (Sentralen finnes på Øvre Slottsgate 3):
+**CityKids på Sentralen** er produsert av Stiftelsen Oslo Barnemuseum. Besøk CityKids på følgende helger i 2022 (Sentralen finnes på Øvre Slottsgate 3):
 
 * 8.-9. januar kl. 12-16 - AVLYST pga covid
 * 12.-13. februar kl. 12-16 - AVLYST pga covid

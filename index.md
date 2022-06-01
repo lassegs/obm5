@@ -12,7 +12,7 @@ aside: true
 * 12.-13. mars kl 12-16  <https://www.facebook.com/events/318894086880265/>
 * 9.-10. april kl. 12-16 <https://www.facebook.com/events/739786537405705>
 * 15.-16. oktober kl. 12-16 
-* 15.-16. november kl. 12-16 
+* 12.-13. november kl. 12-16 
 
 {% include carousel.html height="70" unit="%" duration="7" %}
 

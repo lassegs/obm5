@@ -14,6 +14,6 @@ Sentralen \
 Øvre Slottsgate 3 \
 0157 Oslo*
 
-Kom gjerne på besøk, men merk at vi ikke har faste åpningstider. Ta kontakt først eller se [alle aktiviteter](https://www.facebook.com/pg/oslobarnemuseum/events)
+Merk at vi ikke har faste åpningstider. Ta kontakt først eller se [alle aktiviteter](https://www.facebook.com/pg/oslobarnemuseum/events)
 
 {% include map.html id="188k5hq7Fnote_MDtgDEUBX5zGO0" %}

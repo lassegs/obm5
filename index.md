@@ -22,7 +22,7 @@ aside: true
 
 **Oppdag, utforsk, skap, lek!** CityKids er en levende arena for oppdagelse og mestring. Her kan barna selv ta ledelsen i å oppdage, skape og prøve noe nytt. Barn utforsker og utfolder seg i flersensoriske aktiviteter som stimulerer nysgjerrighet, kreativitet og selvtillit og gir et godt grunnlag for læring og nytenkning.
 
-![Virtual reality fossefall](https://raw.githubusercontent.com/lassegs/obmimg/master/waterfall.jpg)
+![Virtual reality fossefall](/assets/uploads/sunny-marmorsalen-no-people.jpg)
 
 CityKids er produsert av Stiftelsen Oslo Barnemuseum i samarbeid med SentralenUNG og Institutt for informatikk ved UiO og med støtte fra Oslo kommune og EU Kreativt Europa.
 

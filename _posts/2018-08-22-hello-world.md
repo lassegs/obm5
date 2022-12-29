@@ -5,5 +5,4 @@ categories:
   - General
 date: 2022-02-10 12:00:00
 ---
-Endelig gjenåpner vi CityKids helgen 12.-13. mars 2022! \
-<https://www.facebook.com/events/318894086880265/>
+N﻿este CityKids helg er 7.-8. januar 2023 <https://www.facebook.com/events/2166680833516856>

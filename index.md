@@ -14,6 +14,8 @@ aside: true
 * 14.-15. oktober kl. 12-16 [](https://www.facebook.com/events/3317286941828325/3317286955161657)
 * 18.-19. november kl. 12-16 [](https://www.facebook.com/events/860961128236599/860961134903265)
 
+[Klikk her for å kjøpe billetter.](https://tix.no/nb/sentralen/buyingflow/tickets/15902) Det blir billettsalg også i døren etter ledig kapasitet.
+
 {% include carousel.html height="70" unit="%" duration="7" %}
 
 ## CityKids

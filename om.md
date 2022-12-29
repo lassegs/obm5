@@ -31,9 +31,9 @@ I stedet for å være en del av et større museum for voksne, er et barnemuseum 
 
 ## Hvorfor Oslo?
 
-Mangfoldet i Oslos barnebefolkning er økende. Antallet barn øker samtidig. Det er nå 90.000 barn under 13 år i Oslo, noe som utgjør 15% av befolkningen, og fødselstallene er stigende. Med Akershus inkludert er det mer enn 200.000 barn under 13 år i nærområdet.
+Mangfoldet i Oslos barnebefolkning er økende. Antallet barn øker samtidig. 
 
-Oslo har et stort behov for kulturtilbud som kan bygge broer mellom varierte barnegrupper for å ivareta en positiv, mangfoldig fremtid for byen. Oslos barn har behov for et sted hvor de kan utforske verden og utvikle tilhørighet gjennom lek - deres naturlig måte å lære på. Mange land i verden har valgt å møte disse behovene gjennom et barnemuseum.
+Oslos barn har behov for et sted hvor de kan utforske verden og utvikle tilhørighet gjennom lek - deres naturlig måte å lære på. Mange land i verden har valgt å møte disse behovene gjennom et barnemuseum.
 
 Vi synes det er på tide at vi kan få et lokalt barnemuseum til glede og nytte for en voksende barnebefolkning.
 
@@ -66,7 +66,7 @@ bør skje på Tøyen gjennom transformasjon av eksisterende bygg.  Vi håper mat
 og vil gjerne ha dine innspill på hvordan vi best kan gå fra idé til realisering.
 
 <a href= "http://oslobarnemuseum.org/pdf/UngeOppdagere_Konseptrapport_v1_webres.pdf">
-!\[Konseptutredning](/assets/oppdrag.png)</a>
+!\\[Konseptutredning](/assets/oppdrag.png)</a>
 
 I 2015 fikk vi i samarbeid med [Space Group](http://spacegroup.no/)  laget Oppdrag Oppdag!, en konseptutvikling for et interaktivt opplevelsessenter for barn på Tøyen.
 

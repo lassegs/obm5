@@ -1,6 +1,9 @@
 ---
 title: CityKids på Sentralen
 feature_image: /assets/uploads/sunny-marmorsalen-no-people.jpg
+feature_text: |-
+  N﻿este CityKids er 1.-2. april \
+  <https://www.facebook.com/events/144041181910168>
 categories:
   - General
 date: 2022-02-10 12:00:00

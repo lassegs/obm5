@@ -10,7 +10,7 @@ aside: true
 * 7.-8. januar kl. 12-16   <https://www.facebook.com/events/2166680833516856>
 * 4-5. februar kl. 12-16  <https://www.facebook.com/events/1623525028103537>
 * 4.-5. mars kl 12-16  [https://www.facebook.com/events/560041666093035](<* https://www.facebook.com/events/560041666093035>)[](https://www.facebook.com/events/318894086880265/)
-* 1.-2. april kl. 12-16 [](https://www.facebook.com/events/739786537405705)
+* 1.-2. april kl. 12-16 <https://www.facebook.com/events/144041181910168>[](https://www.facebook.com/events/739786537405705)
 * 14.-15. oktober kl. 12-16 [](https://www.facebook.com/events/3317286941828325/3317286955161657)
 * 18.-19. november kl. 12-16 [](https://www.facebook.com/events/860961128236599/860961134903265)
 
